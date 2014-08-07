@@ -35,7 +35,7 @@ var app = {
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
         alert('1');
-        alert("Name : " + device.name);
+        alert("Name : " + JSON.stringify(device));
         alert('2');
     },
     // Update DOM on a Received Event
