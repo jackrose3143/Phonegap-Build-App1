@@ -6,6 +6,7 @@
     <feature name="Device">
         <param name="android-package" value="org.apache.cordova.device.Device" />
     </feature>
+    <gap:plugin name="org.apache.cordova.device"/>
     <name>App1</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
