@@ -42,9 +42,6 @@
     <!-- Plugins -->
 
     <!-- Core plugins -->
-    <gap:plugin name="org.apache.cordova.battery-status" />
-    <gap:plugin name="org.apache.cordova.device" />
-    <gap:plugin name="org.apache.cordova.geolocation" />
     <gap:plugin name="de.appplant.cordova.plugin.background-mode" />
     <gap:plugin name="de.appplant.cordova.plugin.local-notification" />
     <gap:plugin name="org.apache.cordova.battery-status" />
